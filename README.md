@@ -23,6 +23,6 @@ Have fun!
 ##Making the executable##
 You will need to build the file in windows first. Please download the PyInstaller program from http://www.pyinstaller.org/, and use the following command from the cmd terminal:
 
-path-to-pyinstaller\pyinstaller namegen.spec --onefile
+`path-to-pyinstaller\pyinstaller namegen.spec --onefile`
 
 and the resultant ".exe" file will be located in the "dist" folder in the current directory.
