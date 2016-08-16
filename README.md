@@ -1,4 +1,4 @@
-Name and Stat Generator for Dungeons and Dragons (D&D)
+#Name and Stat Generator for Dungeons and Dragons (D&D)#
 Save yourself some tedious dice rolls and use this name and stat generator for DnD. The algorithm is a heuristic letter selector based on a database of bigrams from your chosen gender and fantastical race or ethnicity. 
 
 ##What's in here?##
