@@ -1,5 +1,5 @@
 # DnD-namegen
-Save yourself some tedious dice rolls and use this name and stat generator for DnD, based on heuristic letter selector based on a chosen ethnicity or fantastical race. 
+Save yourself some tedious dice rolls and use this name and stat generator for DnD. The algorithm is a heuristic letter selector based on a database of bigrams from your chosen gender and fantastical race or ethnicity. 
 
 You may need to build the file in windows first. Please download the PyInstaller program from http://www.pyinstaller.org/, and use the namegen.spec file and --onefile option to create your own file.
 
