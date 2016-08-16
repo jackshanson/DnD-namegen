@@ -7,12 +7,12 @@ This initial commit contains the namegen.py script, which is the basis of the pr
 Ethnicities  | Races
 ------------- | -------------
 Dwarven  | Dragonborn
-elvish (male and female)  | Dwarf
-goblin | Elf
-greek gods | Goblin
-japanese (male and female) | Half-giant
-orcish | Half-orc
-western (male and female) | Halfling
+Elvish (male and female)  | Dwarf
+Goblin | Elf
+Greek gods | Goblin
+Japanese (male and female) | Half-giant
+Orcish | Half-orc
+Western (male and female) | Halfling
  | Human
  | Tiefling
 
