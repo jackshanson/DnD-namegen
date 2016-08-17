@@ -1,5 +1,7 @@
 #Name and Stat Generator for Dungeons and Dragons (D&D)#
-Save yourself some tedious dice rolls and use this name and stat generator for DnD. The algorithm is a heuristic letter selector based on a database of bigrams from your chosen gender and fantasy race or ethnicity. 
+Save yourself some tedious dice rolls and use this name and stat generator for DnD. The algorithm is a heuristic letter selector based on a database of bigrams from your chosen gender and fantasy race or ethnicity. The names it generates are completely random, and sometimes nonsensical, rather than picked from an existing list. 
+
+The program also generates the age, height, weight, languages, and stats (Str, Dex, etc) for your chosen race. These payer characteristics can also be entered by a user and locked so that the program does not overwrite them. Furthermore, the stats already include their race bonuses when they are generated.
 
 ##What's in here?##
 This initial commit contains the namegen.py script, which is the basis of the program. The namegen.spec file is used by the pyinstaller program, which builds the python script into a windows ".exe" file. Finally, the namedb folder contains the current name databases. The current name ethnicities and races are as follows:
