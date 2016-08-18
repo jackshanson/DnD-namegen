@@ -27,6 +27,10 @@ You will need to build the file for windows usage first. Linux users can obvious
 
 Please download the PyInstaller program from http://www.pyinstaller.org/, and use the following command from the cmd terminal:
 
-`path-to-pyinstaller\pyinstaller namegen.spec --onefile`
+`path\to\pyinstaller\pyinstaller namegen.spec --onefile`
+
+so, for example:
+
+`D:\programs\python_stuff\pyinstaller namegen.spec --onefile`
 
 and the resultant ".exe" file will be located in the "dist" folder in the current directory.
