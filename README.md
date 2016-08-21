@@ -23,7 +23,9 @@ Please contact me if you wish to add your own, or feel free in your own distribu
 Have fun!
 
 ##Making the windows executable##
-First of all, please ensure you have Python installed on your windows machine. If you don't please click the Python 2.7.xx download at https://www.python.org/downloads/.
+First of all, please ensure you have Python installed on your windows machine. If you don't please click the Python 2.7.xx download at https://www.python.org/downloads/. After this, please run this command to install a dependency:
+
+`pip install numpy`
 
 Now for creating the executable file. Linux users can skip this, as they can obviously just run the python script from a terminal. Windows users will need to compile the file and its dependencies before usage.
 
