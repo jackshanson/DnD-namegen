@@ -36,7 +36,7 @@ Please download and install PyInstaller 3.2 from http://www.pyinstaller.org/, an
 and the resultant ".exe" file will be located in the "dist" folder in the current directory.
 
 ##Useful links##
-* A useful guide to installing Python on windows 10 can be found at http://www.anthonydebarros.com/2015/08/16/setting-up-python-in-windows-10/
+* A useful guide to installing Python on windows 10 can be found at: http://www.anthonydebarros.com/2015/08/16/setting-up-python-in-windows-10/
 * How to install PyInstaller: http://pyinstaller.readthedocs.io/en/latest/installation.html
 
 
