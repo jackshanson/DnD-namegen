@@ -27,7 +27,7 @@ First of all, please ensure you have Python installed on your windows machine. I
 
 Now for creating the executable file. Linux users can skip this, as they can obviously just run the python script from a terminal. Windows users will need to compile the file and its dependencies before usage.
 
-Please download the PyInstaller program from http://www.pyinstaller.org/, and use the following command from the cmd terminal:
+Please download PyInstaller 3.2 from http://www.pyinstaller.org/, and use the following command from the cmd terminal:
 
 `path\to\pyinstaller\pyinstaller namegen.spec --onefile`
 
